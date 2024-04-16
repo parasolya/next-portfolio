@@ -66,7 +66,7 @@ export default function Home() {
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white">
               <Image src={design} alt="design" width={100} height={100} />
-              <h3 className="text-lg font-medium pt-8 pb-2">Beuautifil Designs</h3>
+              <h3 className="text-lg font-medium pt-8 pb-2">Beautiful Designs</h3>
               <p className="py-2">
                 Creating elegant designs suited for your needs following core
                 design theory.
@@ -79,7 +79,7 @@ export default function Home() {
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white">
               <Image src={code} alt="code" width={100} height={100} />
-              <h3 className="text-lg font-medium pt-8 pb-2">Beuautifil Designs</h3>
+              <h3 className="text-lg font-medium pt-8 pb-2">Beautiful Designs</h3>
               <p className="py-2">
                 Creating elegant designs suited for your needs following core
                 design theory.
@@ -92,7 +92,7 @@ export default function Home() {
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white">
               <Image src={consulting} alt="consulting" width={100} height={100} />
-              <h3 className="text-lg font-medium pt-8 pb-2">Beuautifil Designs</h3>
+              <h3 className="text-lg font-medium pt-8 pb-2">Beautiful Designs</h3>
               <p className="py-2">
                 Creating elegant designs suited for your needs following core
                 design theory.
